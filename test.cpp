@@ -13,7 +13,7 @@ int main()
 
 	cout<<add(1,2)<<endl;
 
-	cout << "Ricky says: Hello world" << endl;
+	cout << "Yushuo says: Hello world" << endl;
 
 
 	return 0;
