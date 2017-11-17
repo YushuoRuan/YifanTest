@@ -1,0 +1,1 @@
+https://github.com/yuru4772/YifanTest/invitations
